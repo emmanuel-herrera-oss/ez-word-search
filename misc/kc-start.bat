@@ -1,0 +1,2 @@
+kc.bat start --hostname https://ezwordsearch.com/auth --db postgres --db-url-host localhost --db-username postgres --db-password <password> --proxy edge --hostname-backchannel-dynamic true
+rem kc.bat start --hostname http://localhost:8080 --db postgres --db-url-host localhost --db-username postgres --db-password <password> --proxy edge --hostname-backchannel-dynamic true
