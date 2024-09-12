@@ -1,0 +1,33 @@
+.ws-wl-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 650px;
+  column-gap: 2rem;
+}
+
+.ws-wl-word {
+  user-select: none;
+  cursor: default;
+}
+
+.ws-wl-me {
+  color: rgb(173, 216, 230);
+}
+
+.ws-wl-opponent {
+  color: rgb(210, 180, 140)
+}
+
+.ws-wl-strikethrough {
+  text-decoration: line-through;
+  text-decoration-thickness: 0.1rem;
+}
+
+.ws-wl-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+}

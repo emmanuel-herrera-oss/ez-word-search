@@ -1,0 +1,13 @@
+.ws-home-container {
+    display: flex;
+    justify-content: space-between;
+    width: 90vw;
+    gap: 2rem;
+}
+
+.ws-home-demo-image {
+    width: 500px;
+    height: 370px;
+    border: 2px solid #3C432D;
+    border-bottom: 20px solid #3C432D;
+}

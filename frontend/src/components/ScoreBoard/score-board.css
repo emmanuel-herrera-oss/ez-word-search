@@ -1,0 +1,12 @@
+.ws-sb-score-container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.ws-sb-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: flex-start;
+}

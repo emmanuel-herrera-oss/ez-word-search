@@ -1,0 +1,42 @@
+.ws-board-move {
+    stroke-opacity: 0.5;
+    stroke-linecap: round;
+}
+
+.ws-grid-cell {
+    user-select: none;
+    cursor: default;
+}
+
+.ws-grid-rect-selecting {
+    stroke: gray;
+    fill: transparent;
+    fill-opacity: 0;
+    stroke-width: 1px;
+}
+
+.ws-grid-rect {
+    stroke: gray;
+    fill: transparent;
+    fill-opacity: 0;
+    stroke-width: 1px;
+}
+
+.ws-grid-rect:hover {
+    fill: rgba(173, 216, 230);
+    fill-opacity: 0.35;
+}
+
+.ws-player-move {
+    stroke: rgb(173, 216, 230);
+    stroke-opacity: 0.25;
+    stroke-linecap: round;
+}
+
+.ws-board-move-me {
+    stroke: rgb(173, 216, 230);
+}
+
+.ws-board-move-opponent {
+    stroke: rgb(210, 180, 140);
+}
