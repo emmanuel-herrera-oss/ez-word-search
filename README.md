@@ -1,2 +1,2 @@
 # ez-word-search
-Word search generation, match-making, auth, and persistence for ezwordsearch.com
+Word search generation, match-making, auth, and persistence for [ezwordsearch.com](https://ezwordsearch.com)
