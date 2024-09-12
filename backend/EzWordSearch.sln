@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzWordSearch", "EzWordSearch\EzWordSearch.csproj", "{040E14FE-991A-4663-B129-BEECF500D5B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzWordSearch.Domain", "EzWordSearch.Domain\EzWordSearch.Domain.csproj", "{18C80A80-C088-4F04-BC60-8F6C7EF65B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040E14FE-991A-4663-B129-BEECF500D5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040E14FE-991A-4663-B129-BEECF500D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040E14FE-991A-4663-B129-BEECF500D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040E14FE-991A-4663-B129-BEECF500D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C80A80-C088-4F04-BC60-8F6C7EF65B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C80A80-C088-4F04-BC60-8F6C7EF65B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C80A80-C088-4F04-BC60-8F6C7EF65B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C80A80-C088-4F04-BC60-8F6C7EF65B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D98EC8-71CA-4457-8FA0-C073A0FC9553}
+	EndGlobalSection
+EndGlobal
